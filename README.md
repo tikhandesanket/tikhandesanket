@@ -10,17 +10,17 @@
 
 ## 🚀 About Me
 
-I'm an AI Engineering Manager and GenAI Architect with 13+ years leading engineering teams and shipping production-scale AI systems. I combine hands-on GenAI depth — RAG pipelines, LangGraph agentic workflows, Azure OpenAI, multi-vector databases — with people leadership: hiring, mentoring, and running teams of 12–15 across distributed and onsite environments.
+I'm an AI Engineering Manager and GenAI Architect with 13+ years leading engineering teams and shipping production-scale AI systems. I combine hands-on GenAI depth — RAG pipelines, LangGraph agentic workflows, Azure OpenAI, multi-vector databases — with people leadership: hiring, mentoring, and running teams of 12–15 across distributed and on-site environments 🇮🇩 🇻🇳 🇭🇰.
 
 I've taken GenAI solutions from concept to enterprise production, including a RAG system serving millions of documents at sub-1s P95 latency.
 
 ## 📊 Highlights
 
-🏗️ 13+ years of engineering leadership across AI, SaaS, InsurTech, and hospitality<br>
+🏗️ 14+ years of engineering leadership across AI, SaaS, InsurTech, and hospitality<br>
 👥 Led & scaled teams of 12–15 engineers across multiple companies<br>
 ⚡ Built an enterprise RAG system at Jio — millions of docs, <1s P95 latency<br>
 🤖 Reduced manual support effort by 30–40% with LLM-powered agents<br>
-🌏 Delivered client projects onsite in Indonesia, Vietnam & Hong Kong<br>
+🌏 Delivered client projects onsite in 🇮🇩 Indonesia, 🇻🇳 Vietnam & 🇭🇰 Hong Kong<br>
 🎓 IBM AI Developer & AWS Solutions Architect certified
 
 ## 🛠️ Tech & Tools
@@ -41,9 +41,9 @@ Owning the AI engineering roadmap at **Jio Platforms** for conversational AI, pe
 
 ## 🏆 Certifications & Awards
 
-IBM AI Developer Professional Certificate<br>
-Architecting Solutions on AWS<br>
-R-Samman Award, Tech Pillars, Crown of the Fortnight, Best Team Lead
+![IBM](https://img.shields.io/badge/IBM-AI%20Developer%20Professional%20Certificate-052FAD?style=flat&logo=ibm&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-Architecting%20Solutions-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+
+![R--Samman Award](https://img.shields.io/badge/Award-R--Samman-FFD700?style=flat) ![Tech Pillars](https://img.shields.io/badge/Award-Tech%20Pillars-FFD700?style=flat) ![Crown of the Fortnight](https://img.shields.io/badge/Award-Crown%20of%20the%20Fortnight-FFD700?style=flat) ![Best Team Lead](https://img.shields.io/badge/Award-Best%20Team%20Lead-FFD700?style=flat)
 
 ---
 

@@ -1,65 +1,146 @@
-
-## 🚀 About Me Hi, I'm Sanket Tikhande 👋
-
-![Dev Working](https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif)
+<div align="center">
 
 
-### 🤖 AI Engineering Manager · GenAI Architect · Freelance AI Consultant
 
-📍 Thane, Mumbai, India · 🌐 Remote-friendly worldwide
+# Hi, I'm Sanket Tikhande 👋
+
+### 🤖 AI/ML Sr.Engineering Manager · GenAI Architect · Freelance AI Consultant
+
+📍 Thane, Mumbai, India &nbsp;·&nbsp; 🌐 Remote-friendly worldwide
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-tikhande-b3087a53/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanket.tikhande@gmail.com)
-[![Available](https://img.shields.io/badge/Status-Available%20for%20Freelance-00C853?style=for-the-badge)](mailto:sanket.tikhande@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-tikhandesanket-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tikhandesanket)
+[![Available](https://img.shields.io/badge/🟢%20Status-Available%20to%20Work-00C853?style=for-the-badge)](mailto:sanket.tikhande@gmail.com)
+
+</div>
 
 ---
 
+## 🚀 About Me
 
+<img align="right" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="260"/>
 
 I build **production-grade GenAI systems** that actually ship — RAG pipelines serving millions of docs at sub-1s latency, LangGraph agentic workflows, Azure OpenAI integrations, and multi-agent orchestration.
 
-With **14+ years of engineering leadership** across SaaS, InsurTech, AI, and hospitality, I bring both the architectural depth and the delivery discipline your project needs. I lead a 12-member cross-functional team at **Jio Platforms** and take select freelance clients for ambitious AI challenges.
+With **14+ years of engineering leadership** across SaaS, InsurTech, AI, and hospitality, I bring both the architectural depth and the delivery discipline your project needs.
 
-> 💬 *"I don't just architect — I write the code, tune the prompts, and design the infra."*
+Currently leading a **12-member cross-functional team at Jio Platforms** and taking select freelance clients for ambitious AI challenges.
+
+> I always believe 💬 *"If you're good at something, never do it for free." — The Joker*
+
+<br clear="right"/>
 
 ---
 
 ## 📊 Impact at a Glance
 
-| Metric | Result |
-|---|---|
-| 🏗️ Engineering leadership | **14+ years** across AI, SaaS, InsurTech, Hospitality |
-| 👥 Team size led | **12–15 engineers** cross-functional, distributed |
-| ⚡ RAG system latency | **< 1s P95** serving millions of documents at Jio |
-| 🤖 Support automation | **30–40% reduction** in manual effort via LLM agents |
-| 🌏 Onsite experience | **3 countries** — 🇮🇩 Indonesia · 🇻🇳 Vietnam · 🇭🇰 Hong Kong |
+<div align="center">
+
+| 🏗️ | 👥 | ⚡ | 🤖 | 🌏 |
+|:---:|:---:|:---:|:---:|:---:|
+| **14+ Years** | **12–15** | **< 1s P95** | **30–40%** | **3 Countries** |
+| Engineering Leadership | Engineers Led | RAG Latency at Jio | Support Effort Saved | Onsite Delivery |
+
+</div>
 
 ---
 
-## 🛠️ What I Build for Clients
+## 🖼️ Projects & Featured Work
 
-### 🧠 RAG & Knowledge Systems
-Enterprise document intelligence — vector search, hybrid retrieval, re-ranking, citation pipelines. Built at scale for millions of docs with sub-1s P95 latency.
+### 🧠 Project 1 — Enterprise RAG System @ Jio Platforms
 
-`LangChain` `FAISS` `OpenSearch` `PGVector` `Azure AI Search`
+<img align="right" src="https://drive.google.com/uc?export=view&id=1lpadM5Q3hyXjbXbt6V-6S8Od7pJiP1nK" width="260" alt="Enterprise RAG System"/>
 
-### 🤖 Agentic AI & Automation
-LangGraph multi-agent systems, tool-calling workflows, autonomous support and ops agents. Cut manual effort by 30–40% in production.
+Built an enterprise-scale RAG pipeline serving **millions of documents** at **sub-1s P95 latency**. Hybrid retrieval with re-ranking, citation tracking, and multi-vector search using Azure AI Search + PGVector.
 
-`LangGraph` `GPT-4o` `Azure OpenAI` `Tool Calling` `Multi-Agent`
+`Azure OpenAI` `LangChain` `PGVector` `Azure AI Search` `FastAPI` `Docker`
 
-### 🏗️ AI Architecture & Advisory
-Model selection, cost/latency optimization, MLOps setup, LLM monitoring, and fractional CTO-style AI leadership for growing teams.
-
-`Azure ML` `MLflow` `CI/CD` `LLM Monitoring` `Docker`
+<br clear="right"/>
 
 ---
 
-## 💼 Currently
+### 🤖 Project 2 — LangGraph Agentic Workflow
 
-**AI Engineering Manager @ Jio Platforms** ● Active
+<img align="right" src="https://drive.google.com/uc?export=view&id=14GHvDeXW2BW42aMELZgb8v-74U6_UZf9" width="260" alt="LangGraph Agentic Workflow"/>
 
-Owning the full AI engineering roadmap for conversational AI, personalization, and service automation. Leading a 12+-member cross-functional team building agentic GenAI products end-to-end — from architecture and model selection through MLOps, monitoring, and cost optimization.
+Multi-agent system using LangGraph — tool-calling workflows, autonomous decision-making, and human-in-the-loop support. Reduced manual support effort by **30–40%** in production.
+
+`LangGraph` `GPT-4o` `Azure OpenAI` `Tool Calling` `Multi-Agent` `Python`
+
+<br clear="right"/>
+
+---
+
+### 🏗️ Project 3 — AI Architecture & Monitoring Dashboard
+
+<img align="right" src="https://drive.google.com/uc?export=view&id=1tnsk0GGk9xMyJlvLENMAGTFr6vTpP5wJ" width="260" alt="AI Architecture Dashboard"/>
+
+End-to-end MLOps setup with LLM monitoring, cost & latency optimization, and CI/CD pipelines for GenAI systems deployed on Azure ML.
+
+`Azure ML` `MLflow` `CI/CD` `LLM Monitoring` `Docker` `Azure DevOps`
+
+<br clear="right"/>
+
+---
+
+### 🔍 Project 4 — Multi-Vector Search Engine
+
+<img align="right" src="https://drive.google.com/uc?export=view&id=1BzkUdlGo8Wn8THiZLwlVy_uQP0afGBsK" width="260" alt="Multi-Vector Search Engine"/>
+
+Hybrid semantic search combining dense + sparse vectors with OpenSearch and FAISS. Sub-second retrieval across millions of records with custom re-ranking.
+
+`FAISS` `OpenSearch` `PGVector` `Python` `FastAPI` `Redis`
+
+<br clear="right"/>
+
+---
+
+### 💬 Project 5 — Conversational AI Platform
+
+<img align="right" src="https://drive.google.com/uc?export=view&id=1qXKCNGtieOSo7rxlA6_9Nrd9OBywaB8U" width="260" alt="Conversational AI Platform"/>
+
+Production conversational AI platform with WebSocket streaming, session management, and context-aware multi-turn dialogue. Integrated with Jio's service automation layer.
+
+`GPT-4o` `FastAPI` `WebSockets` `PostgreSQL` `Redis` `Azure OpenAI`
+
+<br clear="right"/>
+
+---
+
+### 🔬 Project 6 — Open Source Contributor @ Dynavec
+
+[![Dynavec](https://img.shields.io/badge/Open%20Source-Dynavec-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeforstartups/dynavec)
+[![Contributor](https://img.shields.io/badge/Role-Contributor-00C853?style=for-the-badge)](https://github.com/codeforstartups/dynavec)
+
+> **Dynavec** is a production-grade vector database and retrieval engine. I contributed deep ML/IR features across quantization, hybrid search, RAG integrations, and embedding optimization.
+
+**Contributed 12+ features across quantization, hybrid search & RAG integrations:**
+
+- 🗜️ **Scalar Quantization & OPQ** — INT8 compression for 4× memory reduction; OPQ rotation improved Recall@10 by +1.4pp at same vector footprint
+- ⚡ **HNSW Hot Tier & PQ Persistence** — in-process ANN search for ultra-low latency; codebook serialization for production reloads
+- 🔀 **Hybrid Search & Learned RRF Weights** — fused graph+ANN retrieval via RRF; ML-trained BM25/vector blend weights from labeled data, zero manual tuning
+- 🎯 **Cross-encoder Reranker & Vectorized MMR** — two-stage precision reranking; diverse result sets via Maximal Marginal Relevance
+- 🔌 **RAG Integrations** — native connectors for Haystack, DSPy, and LlamaIndex; embedding cache to cut re-embedding latency and API cost
+
+> 📈 OPQ lifted Recall@10 by **+1.4pp** · Scalar INT8 cut memory **4×** · RRF weights learned from data, zero manual tuning
+
+`Vector Quantization` `HNSW` `ANN Search` `RRF` `Hybrid Search` `Cross-Encoder` `MMR` `LlamaIndex` `Haystack` `DSPy` `Python`
+
+---
+
+## 🛠️ What I Build 
+
+<div align="center">
+
+| 🧠 RAG & Knowledge Systems | 🤖 Agentic AI & Automation | 🏗️ AI Architecture & Advisory |
+|:---|:---|:---|
+| Enterprise document intelligence | LangGraph multi-agent systems | Model selection & cost optimization |
+| Vector search, hybrid retrieval | Tool-calling workflows | MLOps setup & LLM monitoring |
+| Re-ranking & citation pipelines | Autonomous support agents | Fractional CTO-style AI leadership |
+| Sub-1s P95 at millions of docs | 30–40% effort reduction in prod | Cloud-native, production-ready |
+
+</div>
 
 ---
 
@@ -80,12 +161,14 @@ Owning the full AI engineering roadmap for conversational AI, personalization, a
 ![Tool Calling](https://img.shields.io/badge/Tool%20Calling-0F4C75?style=flat)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-1B4332?style=flat)
 
-**Vector DBs**
+**Vector DBs & Search**
 
 ![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=flat)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
 ![PGVector](https://img.shields.io/badge/PGVector-336791?style=flat&logo=postgresql&logoColor=white)
 ![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![HNSW](https://img.shields.io/badge/HNSW-ANN%20Search-6E40C9?style=flat)
+![Dynavec](https://img.shields.io/badge/Dynavec-Contributor-00C853?style=flat&logo=github)
 
 **Cloud & MLOps**
 
@@ -94,6 +177,7 @@ Owning the full AI engineering roadmap for conversational AI, personalization, a
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-21759B?style=flat)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
 **Languages & Backend**
 
@@ -103,6 +187,25 @@ Owning the full AI engineering roadmap for conversational AI, personalization, a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
+
+---
+
+## 💼 Career Timeline
+
+```
+2024 – Present  │  AI Engineering Manager @ Jio Platforms
+                │  Leading 12-member team · Enterprise RAG · Agentic AI · Conversational AI
+                │
+2020 – 2024     │  Senior Engineering Manager / GenAI Architect
+                │  InsurTech & SaaS · LLM agents · Onsite: 🇮🇩 🇻🇳 🇭🇰
+                │
+2016 – 2020     │  Engineering Lead
+                │  SaaS & Hospitality · Team scaling · Python & Ruby on Rails
+                │
+2010 – 2016     │  Software Developer / Programmer Analyst
+                │  C2L Biz Solutions · FWD Hong Kong · Sequis · Sodel Solutions
+```
 
 ---
 
@@ -110,8 +213,8 @@ Owning the full AI engineering roadmap for conversational AI, personalization, a
 
 **Certifications**
 
-![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-AI%20Developer%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
+[![IBM](https://img.shields.io/badge/IBM-AI%20Developer%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/training/certification)
 
 **Awards**
 
@@ -124,26 +227,32 @@ Owning the full AI engineering roadmap for conversational AI, personalization, a
 
 ## 🌟 Why Work With Me
 
-- 🚢 **I ship production systems, not demos** — from architecture to deployment with monitoring baked in
+- 🚢 **I ship production systems, not demos** — architecture to deployment with monitoring baked in
+- ⚡ **Hands-on depth** — I write the code, tune the prompts, and design the infra; not just slide decks
+- 🔬 **Open source contributor** — active Dynavec contributor in vector quantization, ANN search, hybrid retrieval
 - 🌏 **Proven cross-border delivery** — onsite in 3 countries, distributed team leadership
-- ⚡ **Hands-on depth** — I write the code, tune the prompts, design the infra; not just slide decks
 - 👥 **People leadership** — hired, mentored, and scaled teams of 12–15 engineers
-- 🎯 **Domain-agnostic** — delivered AI for telecom, InsurTech, SaaS, and hospitality
+- 📈 **Business-driven** — every system I build tied to measurable outcomes (latency, cost, effort saved)
 
 ---
 
 ## 📬 Let's Build Something With AI
 
-Got a RAG system to architect, an AI agent to ship, or a team that needs GenAI leadership? I've done it at enterprise scale. Let's talk.
+<div align="center">
 
+<img src="https://media1.tenor.com/m/e7ZJKCkaAFsAAAAd/if-youre-good-at-something-never-do-it-for-free.gif" width="420" alt="Joker - If you are good at something never do it for free"/>
+
+**🟢 Currently taking new freelance clients — response within 24 hours**
+
+*Got a RAG system to architect, an AI agent to ship, or a team that needs GenAI leadership?*
+*I've done it at enterprise scale. Let's talk.*
 
 [![Email Me](https://img.shields.io/badge/📧%20sanket.tikhande%40gmail.com-Hire%20Me-EA4335?style=for-the-badge)](mailto:sanket.tikhande@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-tikhande-b3087a53/)
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Hello" height="140" width="299"/>
-  <br/>
-  <sub>Made with ❤️ · Sanket Tikhande · AI Engineering Manager & GenAI Architect</sub>
+
+*Sanket Tikhande · AI/ML Sr.Engineering Manager & GenAI Architect · Mumbai, India*
+
 </div>

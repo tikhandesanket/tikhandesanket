@@ -4,7 +4,7 @@
 
 # Hi, I'm Sanket Tikhande 👋
 
-### 🤖 AI/ML Sr.Engineering Manager · GenAI Architect · Freelance AI Consultant
+### 🤖 AI/ML Sr.Engineering Manager · GenAI Architect ·AI Consultant
 
 📍 Thane, Mumbai, India &nbsp;·&nbsp; 🌐 Remote-friendly worldwide
 
@@ -25,7 +25,7 @@ I build **production-grade GenAI systems** that actually ship — RAG pipelines 
 
 With **14+ years of engineering leadership** across SaaS, InsurTech, AI, and hospitality, I bring both the architectural depth and the delivery discipline your project needs.
 
-Currently leading a **12-member cross-functional team at Jio Platforms** and taking select freelance clients for ambitious AI challenges.
+Currently leading a **12-member cross-functional team** and taking select freelance clients for ambitious AI challenges.
 
 > I always believe 💬 *"If you're good at something, never do it for free." — The Joker*
 
@@ -39,8 +39,8 @@ Currently leading a **12-member cross-functional team at Jio Platforms** and tak
 
 | 🏗️ | 👥 | ⚡ | 🤖 | 🌏 |
 |:---:|:---:|:---:|:---:|:---:|
-| **14+ Years** | **12–15** | **< 1s P95** | **30–40%** | **3 Countries** |
-| Engineering Leadership | Engineers Led | RAG Latency at Jio | Support Effort Saved | Onsite Delivery |
+| **14+ Years** | **12–15** | **< 1s P95** | **30–40%** | **4 Countries** |
+| Engineering Leadership | Engineers Led | RAG Latency  | Support Effort Saved | Onsite Delivery |
 
 </div>
 
@@ -48,7 +48,7 @@ Currently leading a **12-member cross-functional team at Jio Platforms** and tak
 
 ## 🖼️ Projects & Featured Work
 
-### 🧠 Project 1 — Enterprise RAG System @ Jio Platforms
+### 🧠 Project 1 — Enterprise RAG System 
 
 <img align="right" src="https://drive.google.com/uc?export=view&id=1lpadM5Q3hyXjbXbt6V-6S8Od7pJiP1nK" width="260" alt="Enterprise RAG System"/>
 
@@ -60,31 +60,8 @@ Built an enterprise-scale RAG pipeline serving **millions of documents** at **su
 
 ---
 
-### 🤖 Project 2 — LangGraph Agentic Workflow
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=14GHvDeXW2BW42aMELZgb8v-74U6_UZf9" width="260" alt="LangGraph Agentic Workflow"/>
-
-Multi-agent system using LangGraph — tool-calling workflows, autonomous decision-making, and human-in-the-loop support. Reduced manual support effort by **30–40%** in production.
-
-`LangGraph` `GPT-4o` `Azure OpenAI` `Tool Calling` `Multi-Agent` `Python`
-
-<br clear="right"/>
-
----
-
-### 🏗️ Project 3 — AI Architecture & Monitoring Dashboard
-
-<img align="right" src="https://drive.google.com/uc?export=view&id=1tnsk0GGk9xMyJlvLENMAGTFr6vTpP5wJ" width="260" alt="AI Architecture Dashboard"/>
-
-End-to-end MLOps setup with LLM monitoring, cost & latency optimization, and CI/CD pipelines for GenAI systems deployed on Azure ML.
-
-`Azure ML` `MLflow` `CI/CD` `LLM Monitoring` `Docker` `Azure DevOps`
-
-<br clear="right"/>
-
----
-
-### 🔍 Project 4 — Multi-Vector Search Engine
+### 🔍 Project 2 — Bank AI Multi-Vector Search Engine 
 
 <img align="right" src="https://drive.google.com/uc?export=view&id=1BzkUdlGo8Wn8THiZLwlVy_uQP0afGBsK" width="260" alt="Multi-Vector Search Engine"/>
 
@@ -96,7 +73,7 @@ Hybrid semantic search combining dense + sparse vectors with OpenSearch and FAIS
 
 ---
 
-### 💬 Project 5 — Conversational AI Platform
+### 💬 Project 3 — Conversational AI Platform
 
 <img align="right" src="https://drive.google.com/uc?export=view&id=1qXKCNGtieOSo7rxlA6_9Nrd9OBywaB8U" width="260" alt="Conversational AI Platform"/>
 
@@ -108,7 +85,7 @@ Production conversational AI platform with WebSocket streaming, session manageme
 
 ---
 
-### 🔬 Project 6 — Open Source Contributor @ Dynavec
+### 🔬 Project 4 — Open Source Contributor @ Dynavec
 
 [![Dynavec](https://img.shields.io/badge/Open%20Source-Dynavec-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeforstartups/dynavec)
 [![Contributor](https://img.shields.io/badge/Role-Contributor-00C853?style=for-the-badge)](https://github.com/codeforstartups/dynavec)
@@ -194,18 +171,60 @@ Production conversational AI platform with WebSocket streaming, session manageme
 ## 💼 Career Timeline
 
 ```
-2024 – Present  │  AI Engineering Manager @ Jio Platforms
+2024 – Present  │  Sr. AI/ML Engineering Manager
                 │  Leading 12-member team · Enterprise RAG · Agentic AI · Conversational AI
                 │
 2020 – 2024     │  Senior Engineering Manager / GenAI Architect
-                │  InsurTech & SaaS · LLM agents · Onsite: 🇮🇩 🇻🇳 🇭🇰
+                │  InsurTech & SaaS · LLM agents · Onsite: 🇮🇩 🇻🇳 🇭🇰 🇹🇭
                 │
 2016 – 2020     │  Engineering Lead
                 │  SaaS & Hospitality · Team scaling · Python & Ruby on Rails
                 │
-2010 – 2016     │  Software Developer / Programmer Analyst
-                │  C2L Biz Solutions · FWD Hong Kong · Sequis · Sodel Solutions
+2015 – 2016     │  Software Developer / Programmer Analyst
+                │  C2L Biz Solutions · FWD Hong Kong · Sequis
+                │
+2012 – 2015     │  Software Developer
+                │  Sodel Solutions Pvt Ltd
 ```
+
+### 🌏 Onsite Delivery — 4 Countries
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://flagcdn.com/w80/id.png" width="60" alt="Indonesia"/><br/>
+      <strong>🇮🇩 Indonesia</strong><br/>
+      <sub><b>C2L Biz Solutions</b></sub><br/>
+      <sub>Analysis Programmer</sub><br/>
+      <sub>InsurTech · Insurance Systems</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://flagcdn.com/w80/vn.png" width="60" alt="Vietnam"/><br/>
+      <strong>🇻🇳 Vietnam</strong><br/>
+      <sub><b>C2L Biz Solutions</b></sub><br/>
+      <sub>Analysis Programmer</sub><br/>
+      <sub>InsurTech · Insurance Systems</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://flagcdn.com/w80/hk.png" width="60" alt="Hong Kong"/><br/>
+      <strong>🇭🇰 Hong Kong</strong><br/>
+      <sub><b>C2L Biz Solutions</b></sub><br/>
+      <sub>Analysis Programmer</sub><br/>
+      <sub>InsurTech · Insurance Systems</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://flagcdn.com/w80/th.png" width="60" alt="Thailand"/><br/>
+      <strong>🇹🇭 Thailand</strong><br/>
+      <sub><b>C2L Biz Solutions</b></sub><br/>
+      <sub>Analysis Programmer</sub><br/>
+      <sub>InsurTech · Insurance Systems</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -230,7 +249,7 @@ Production conversational AI platform with WebSocket streaming, session manageme
 - 🚢 **I ship production systems, not demos** — architecture to deployment with monitoring baked in
 - ⚡ **Hands-on depth** — I write the code, tune the prompts, and design the infra; not just slide decks
 - 🔬 **Open source contributor** — active Dynavec contributor in vector quantization, ANN search, hybrid retrieval
-- 🌏 **Proven cross-border delivery** — onsite in 3 countries, distributed team leadership
+- 🌏 **Proven cross-border delivery** — onsite in 4 countries (Indonesia, Vietnam, Hong Kong, Thailand), distributed team leadership
 - 👥 **People leadership** — hired, mentored, and scaled teams of 12–15 engineers
 - 📈 **Business-driven** — every system I build tied to measurable outcomes (latency, cost, effort saved)
 
@@ -242,7 +261,7 @@ Production conversational AI platform with WebSocket streaming, session manageme
 
 <img src="https://media1.tenor.com/m/e7ZJKCkaAFsAAAAd/if-youre-good-at-something-never-do-it-for-free.gif" width="420" alt="Joker - If you are good at something never do it for free"/>
 
-**🟢 Currently taking new freelance clients — response within 24 hours**
+****
 
 *Got a RAG system to architect, an AI agent to ship, or a team that needs GenAI leadership?*
 *I've done it at enterprise scale. Let's talk.*
@@ -251,7 +270,6 @@ Production conversational AI platform with WebSocket streaming, session manageme
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-tikhande-b3087a53/)
 
 ---
-
 
 *Sanket Tikhande · AI/ML Sr.Engineering Manager & GenAI Architect · Mumbai, India*
 
